@@ -1,0 +1,40 @@
+.title-image{
+    margin: auto;
+    width: 720px;
+    padding: 10px 20px;
+    
+    text-align: center;
+}
+.title-intro{
+    background-color: tomato;
+}
+.width-set{
+    max-width: 720px;
+}
+.description{
+    text-align: center;
+    width: 720px;
+    margin: auto;
+    display: block;
+}
+.list{
+    width: 720px;
+    text-align: left;
+    margin: auto;
+    
+}
+.list-item{
+    display: inline-block;
+    text-align: left;
+}
+h1{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    padding: 40px;
+    font-size: 36px;
+}
+h2{
+    font-weight: bold;
+    font-family: Garamond;
+}
